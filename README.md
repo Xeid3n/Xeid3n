@@ -1,8 +1,7 @@
 ### Olá! Bem-vindes 😊
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaden-lima/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)]([t.me/xeiiden](https://t.me/xeiiden))
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/xeiiden)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeid3n&langs_count=8?&theme=tokyonight)](https://github.com/Xeid3n/github-readme-stats)
 ![Jaden GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeid3n&show_icons=true&theme=tokyonight)
